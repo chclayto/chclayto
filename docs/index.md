@@ -1,10 +1,10 @@
 ## Home
 
-Hello all, this my official space for scientific related business (second to LinkedIn). I hope this answers many of the most frequently asked questions that 
+Hello all, this my official space for scientific related business (second to LinkedIn). I hope this answers many of the most frequently asked questions that will make future business a little less strangerlike. 
 
 ### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have metriculated the status of being a student at the very fine institution of California Polytechnics State University (San Luis Obispo), through hard work and dedication. I graduated early from high school
 
 ```markdown
 Syntax highlighted code block
