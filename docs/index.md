@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hello all, this my official space for scientific related business (second to LinkedIn). I hope this answers many of the most frequently asked questions that 
+Hello all this my official space for scientific related business (second to LinkedIn). I hope this answers many of the most frequently asked questions that 
 
 ### Markdown
 
