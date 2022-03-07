@@ -4,8 +4,10 @@ Hello all, this my official space for scientific related business (second to Lin
 
 ### About me
 
-I have metriculated the status of being a student at the very fine institution of California Polytechnics State University (San Luis Obispo), through hard work and dedication. I graduated early from high school
+I have metriculated the status of being a student at the very fine institution of California Polytechnics State University (San Luis Obispo), through hard work and dedication. I graduated early from high school at the age of 16, received multiple AA degrees by age of 20 and I am slated to earn my bachelor's degree by 2024. I have taken on many endevors that have offset my earning off my bachelor's degree in Chemistry, things that fall outside of academia. But with my experience and with what I am capable of doing, I would like to remove any doubts of my suitability for an important role in the STEM field. Allow me to explain a little bit about my transgression.
 
+
+#### Acheivements
 ```markdown
 Syntax highlighted code block
 
