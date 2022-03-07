@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is a test
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello all, this my official space for scientific related business (second to LinkedIn). I hope this answers many of the most frequently asked questions that 
 
 ### Markdown
 
