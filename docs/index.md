@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Home
 
 Hello all this my official space for scientific related business (second to LinkedIn). I hope this answers many of the most frequently asked questions that 
 
-### Markdown
+### About me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
