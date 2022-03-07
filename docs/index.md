@@ -7,31 +7,11 @@ Hello all, this my official space for scientific related business (second to Lin
 I have metriculated the status of being a student at the very fine institution of California Polytechnics State University (San Luis Obispo), through hard work and dedication. I graduated early from high school at the age of 16, received multiple AA degrees by age of 20 and I am slated to earn my bachelor's degree by 2024. I have taken on many endevors that have offset my earning off my bachelor's degree in Chemistry, things that fall outside of academia. But with my experience and with what I am capable of doing, I would like to remove any doubts of my suitability for an important role in the STEM field. Allow me to explain a little bit about my transgression.
 
 
-#### Acheivements
-```markdown
-Syntax highlighted code block
+#### Notable acheivements
 
-# Header 1
-## Header 2
-### Header 3
+I have offered tutoring in various different subjects to students and have run chapters related to political organizations. Since 2019, I have become the CEO and president of the <a href="http://www.santamariaoliveco.com">Santa Maria Olive Co</a>. I make agriculatural and marketing decisions for the company, and oversee financial information and manage certifications related to the company. I also have experience in interning for a very prominent lawfirm in Santa Maria: <a href="http://www.wedefend.net">Michael B. Clayton and Associates</a>. Perhaps I would like to dabble in a profession which deals in medicine and laws governing it. As far as my skills in labratory experience goes, I have worked in the organic chemistry labs since my entrance into Cal Poly and have delevoped much of my modern discipline and ethic for work related to it from this.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chclayto/chclayto/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any concerns or would like to reach out to me for business, please feel free to contact me @
+Chrisclayton5000@gmail.com
